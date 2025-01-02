@@ -12,8 +12,7 @@ This is very rough code for identifying keywords in PubMed abstracts. Collaborat
 ## To run the dashboard:
 1. Launch cmd prompt
 2. Change directory
-3. Type jupyter nbconvert --to script TextDashboard.ipynb/
-4. Type streamlit run TextDashboard.py
+3. Type streamlit run TextDashboard.py
 
 ## To use the dashboard:
 1. Enter the path to your folder containing text files in the box
